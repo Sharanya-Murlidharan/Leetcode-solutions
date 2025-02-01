@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
