@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -69,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
