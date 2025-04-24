@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2491-smallest-even-multiple](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3055-maximum-odd-binary-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
