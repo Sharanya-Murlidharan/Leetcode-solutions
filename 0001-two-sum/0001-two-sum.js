@@ -1,19 +1,16 @@
-// /**
-//  * @param {number[]} nums
-//  * @param {number} target
-//  * @return {number[]}
-//  */
-// var twoSum = function(nums, target) {
-    
-// };
-var twoSum = function (nums, target) {
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+     let numMap = new Map(); // A mapping to store numbers and their indices
     for (let i = 0; i < nums.length; i++) {
-        for (let j = i + 1; j < nums.length; j++) {
-            if (nums[j] === target - nums[i]) {
-                return [i, j];
-            }
+        let complement = target - nums[i]; // Find the required number to reach the target
+        if (numMap.has(complement)) {
+            return [numMap.get(complement), i]; // Return indices of the complement and current number
         }
+        numMap.set(nums[i], i); // Store the number with its index
     }
-    // Return an empty array if no solution is found
     return [];
 };
