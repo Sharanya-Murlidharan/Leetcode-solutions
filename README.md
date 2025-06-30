@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 ## Simulation
 |  |
 | ------- |
