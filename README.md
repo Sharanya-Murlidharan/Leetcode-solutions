@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3055-maximum-odd-binary-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
