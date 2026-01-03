@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
