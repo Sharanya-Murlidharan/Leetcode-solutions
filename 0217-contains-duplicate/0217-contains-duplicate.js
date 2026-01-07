@@ -3,11 +3,14 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    nums.sort((a,b) => a-b);
-    for(let i = 0; i <= nums.length-1; i++){
-        if(nums[i] === nums[i+1]){
-            return true
+    let seen = new Set(); // stores numbers we have seen
+
+    for (let num of nums) {
+        if (seen.has(num)) {
+            return true;
         }
+        seen.add(num); 
     }
-    return false
+
+    return false;
 };
