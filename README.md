@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3055-maximum-odd-binary-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
