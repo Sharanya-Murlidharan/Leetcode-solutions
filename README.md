@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0941-sort-array-by-parity](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
