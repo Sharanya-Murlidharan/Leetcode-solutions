@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3194-find-words-containing-character](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Stack
 |  |
 | ------- |
