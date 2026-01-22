@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -145,8 +148,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
