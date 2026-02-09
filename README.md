@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
