@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1844-replace-all-digits-with-characters](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
