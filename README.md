@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1844-replace-all-digits-with-characters](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [3055-maximum-odd-binary-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
