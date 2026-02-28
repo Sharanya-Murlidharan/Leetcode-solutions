@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
