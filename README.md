@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
