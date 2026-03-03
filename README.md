@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
