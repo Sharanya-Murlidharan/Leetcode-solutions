@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
