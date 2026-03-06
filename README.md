@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1844-replace-all-digits-with-characters](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
