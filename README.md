@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Trie
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
