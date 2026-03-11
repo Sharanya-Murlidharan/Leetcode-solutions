@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Heap (Priority Queue)
