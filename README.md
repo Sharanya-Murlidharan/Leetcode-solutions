@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Trie
 |  |
