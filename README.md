@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1844-replace-all-digits-with-characters](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2325-decode-the-message) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
