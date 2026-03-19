@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1025-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -235,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
