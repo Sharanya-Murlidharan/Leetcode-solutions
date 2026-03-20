@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3371-harshad-number](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
