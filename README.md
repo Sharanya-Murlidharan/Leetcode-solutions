@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1844-replace-all-digits-with-characters](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2103-rings-and-rods) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3226-minimum-number-game) |
