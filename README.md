@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
