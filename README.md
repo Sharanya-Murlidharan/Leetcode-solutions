@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sharanya-Murlidharan/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
